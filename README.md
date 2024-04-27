@@ -92,7 +92,7 @@ By pursuing these directions, the Music Pattern Recognition project can enhance 
 
 ## Contributors
 
-- Aditya Patil
 - Anuja Deshpande
+- Aditya Patil
 - Dev Bohra
 - Surabhi Deshpande
